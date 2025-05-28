@@ -1,7 +1,11 @@
-package main //pacotes
+package main
 
-import "fmt"
+import (
+	"encoding/json"
+	"fmt"
+)
 
 func main() {
 	fmt.Println("hello, world!")
+	json.Marshal()
 }
