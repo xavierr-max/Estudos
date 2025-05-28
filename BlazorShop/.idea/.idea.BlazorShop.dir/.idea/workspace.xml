@@ -8,37 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3d7fba1-6e55-4485-a3cf-3b7cbc08e567" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BlazorShop.dir/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Pages/Categories/Delete.razor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Pages/Categories/Details.razor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Pages/Categories/Edit.razor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Pages/Categories/Index.razor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Pages/Products/Create.razor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Pages/Products/Edit.razor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Pages/Products/Index.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BlazorShop.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BlazorShop.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/Layout/NavMenu.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Layout/NavMenu.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/Pages/Categories/Create.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Pages/Categories/Create.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/_Imports.razor" beforeDir="false" afterPath="$PROJECT_DIR$/Components/_Imports.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/app.db" beforeDir="false" afterPath="$PROJECT_DIR$/Data/app.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/BlazorShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net9.0/BlazorShop.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/BlazorShop.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net9.0/BlazorShop.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/BlazorShop.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net9.0/BlazorShop.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net9.0/Data/app.db" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net9.0/Data/app.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/BlazorShop.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/BlazorShop.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/BlazorShop.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/BlazorShop.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/BlazorShop.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/BlazorShop.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/BlazorShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/BlazorShop.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/BlazorShop.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/BlazorShop.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/BlazorShop.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/BlazorShop.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/ref/BlazorShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/ref/BlazorShop.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/refint/BlazorShop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/refint/BlazorShop.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/rjsmrazor.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net9.0/rpswa.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net9.0/rpswa.dswa.cache.json" afterDir="false" />
-    </list>
+    <list default="true" id="e3d7fba1-6e55-4485-a3cf-3b7cbc08e567" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,24 +48,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.BlazorShop: http.executor": "Debug",
-    ".NET Launch Settings Profile.BlazorShop: https.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.BlazorShop: http.executor&quot;: &quot;Debug&quot;,
+    &quot;.NET Launch Settings Profile.BlazorShop: https.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.BlazorShop: https">
     <configuration name="BlazorShop: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/BlazorShop.csproj" />
@@ -139,6 +109,7 @@
       <workItem from="1748304942425" duration="289000" />
       <workItem from="1748360627688" duration="3085000" />
       <workItem from="1748364203159" duration="15476000" />
+      <workItem from="1748392099569" duration="76000" />
     </task>
     <task id="LOCAL-00001" summary="v1.1">
       <option name="closed" value="true" />
@@ -156,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748305131341</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="v1.3">
+      <option name="closed" value="true" />
+      <created>1748392125567</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748392125567</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +147,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="v1.1" />
     <MESSAGE value="v1.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="v1.2" />
+    <MESSAGE value="v1.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
